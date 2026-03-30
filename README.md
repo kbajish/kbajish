@@ -1,4 +1,4 @@
-# Hi, I'm Ajish 👋
+# Hi, I'm Ajish
 
 **AI Engineer** · Cybersecurity · ERP · Industrial AI · MLOps
 
@@ -64,12 +64,6 @@ Multi-agent procurement decision support using LangGraph as the state machine wi
 ![ERP](https://img.shields.io/badge/ERP-SAP--structured-blue?style=flat)
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain-Industrie_4.0-green?style=flat)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-LangGraph-purple?style=flat)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kbajish&show_icons=true&theme=default&hide_border=true)
 
 ---
 
