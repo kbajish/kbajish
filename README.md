@@ -2,7 +2,7 @@
 
 **AI Engineer** · Cybersecurity · ERP · Industrial AI · MLOps
 
-Experienced IT professional with a background in software development, cybersecurity, and ERP systems. Focused on building production-ready AI systems with explainability, LLM integration, and MLOps best practices — with a strong interest in Industrie 4.0 applications. Building end-to-end AI systems that combine machine learning, LLMs, and agent-based workflows to solve real-world problems in cybersecurity, ERP, and industrial supply chains.
+Experienced IT professional with a background in software development, cybersecurity, and ERP systems. Focused on building well-engineered AI systems with explainability, LLM integration, and MLOps best practices — with a strong interest in Industrie 4.0 applications. Building end-to-end AI systems that combine machine learning, LLMs, and agent-based workflows to solve real-world problems in cybersecurity, ERP, supply chains, and AI security.
 
 ---
 
@@ -16,14 +16,14 @@ End-to-end ML system for network intrusion detection trained on CICIDS2017. XGBo
 ---
 
 ### 🤖 [ERP LLM Intelligence (RAG)](https://github.com/kbajish/erp-llm-intelligence-rag)
-RAG-based ERP intelligence system enabling natural language querying of SAP-structured SD and MM data. Table-aware chunking, ChromaDB vector store, nomic-embed-text embeddings, LangChain RAG pipeline with source citation, MRR/Recall@5 evaluation tracked via MLflow.
+RAG-based ERP intelligence system enabling natural language querying of AdventureWorks SD and MM data. Table-aware chunking, ChromaDB vector store, nomic-embed-text embeddings, LangChain RAG pipeline with source citation, MRR/Recall@5 evaluation tracked via MLflow.
 
 `LangChain` `ChromaDB` `RAG` `Ollama` `FastAPI` `Streamlit` `MLflow` `Docker`
 
 ---
 
 ### 📦 [AI Supply Chain Forecasting & Risk Intelligence](https://github.com/kbajish/ai-supply-chain-forecasting)
-LSTM demand forecasting and XGBoost supply risk scoring for industrial automotive supply chains. 28-day forecasts with prediction intervals, SHAP supplier risk explanations, inventory reorder alerts, and LangChain planner narratives. Dual MLflow experiment tracking.
+LSTM demand forecasting and XGBoost supply risk scoring for industrial automotive supply chains. 28-day forecasts with prediction intervals, SHAP supplier risk explanations, inventory reorder alerts, and LangChain planner narratives. Benchmarked on the M5 Forecasting dataset (Walmart CA subset).
 
 `LSTM` `PyTorch` `XGBoost` `SHAP` `LangChain` `Ollama` `FastAPI` `Streamlit` `MLflow` `Docker`
 
@@ -33,6 +33,13 @@ LSTM demand forecasting and XGBoost supply risk scoring for industrial automotiv
 Multi-agent procurement decision support using LangGraph as the state machine with specialised agent nodes. Integrates supply chain forecasting and ERP RAG APIs as live tools. Generates structured Buy / Hold / Escalate recommendations with full reasoning trace. MLflow run logging per query.
 
 `LangGraph` `Multi-agent` `LangChain` `Ollama` `FastAPI` `Streamlit` `MLflow` `Docker`
+
+---
+
+### 🛡️ [AI Security Gateway](https://github.com/kbajish/ai-security-gateway)
+Middleware security gateway for LLM applications implementing a 3-layer hybrid detection pipeline — rule-based, ML-based, and LLM semantic reasoning. Detects prompt injection, PII leakage, and jailbreak attempts on inputs, and applies output guardrails on responses. DSGVO-compliant audit trail. Aligned with OWASP LLM Top 10, EU AI Act, MITRE ATLAS, and BSI IT-Grundschutz.
+
+`spaCy` `scikit-learn` `LangChain` `Ollama` `OWASP` `EU AI Act` `FastAPI` `Streamlit` `MLflow` `Docker`
 
 ---
 
@@ -51,6 +58,12 @@ Multi-agent procurement decision support using LangGraph as the state machine wi
 ![Ollama](https://img.shields.io/badge/Ollama-local--LLM-black?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-ChromaDB-orange?style=flat)
 
+### Security & Compliance
+![OWASP](https://img.shields.io/badge/OWASP-LLM_Top_10-red?style=flat)
+![EU AI Act](https://img.shields.io/badge/EU_AI_Act-aligned-orange?style=flat)
+![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-darkred?style=flat)
+![BSI](https://img.shields.io/badge/BSI-IT_Grundschutz-blue?style=flat)
+
 ### MLOps & DevOps
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
@@ -61,9 +74,10 @@ Multi-agent procurement decision support using LangGraph as the state machine wi
 
 ### Domain Expertise
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=flat)
-![ERP](https://img.shields.io/badge/ERP-SAP--structured-blue?style=flat)
+![ERP](https://img.shields.io/badge/ERP-AdventureWorks-blue?style=flat)
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain-Industrie_4.0-green?style=flat)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-LangGraph-purple?style=flat)
+![AI Security](https://img.shields.io/badge/AI_Security-OWASP_LLM-red?style=flat)
 
 ---
 
