@@ -6,7 +6,7 @@ Experienced IT professional with a background in software development, cybersecu
 
 ---
 
-## 🚀 Portfolio Projects
+## Selected Work
 
 ### 🔐 [AI Cyber Threat Detection](https://github.com/kbajish/ai-cyber-threat-detection)
 End-to-end ML system for network intrusion detection trained on CICIDS2017. XGBoost and Random Forest classifiers with SHAP explainability, MITRE ATT&CK mapping, and LangChain + Ollama SOC narratives. DSGVO-compliant audit trail, FastAPI, Streamlit, Docker Compose, GitHub Actions CI.
