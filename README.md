@@ -9,7 +9,7 @@ Experienced IT professional with a background in software development, cybersecu
 ## Selected Work
 
 ### 🔐 [AI Cyber Threat Detection](https://github.com/kbajish/ai-cyber-threat-detection)
-End-to-end ML system for network intrusion detection trained on CICIDS2017. XGBoost and Random Forest classifiers with SHAP explainability, MITRE ATT&CK mapping, and LangChain + Ollama SOC narratives. DSGVO-compliant audit trail, FastAPI, Streamlit, Docker Compose, GitHub Actions CI.
+End-to-end ML system for network intrusion detection trained on CICIDS2017. XGBoost and Random Forest classifiers with SHAP explainability, MITRE ATT&CK mapping, and LangChain + Ollama SOC narratives. GDPR-aligned audit trail, FastAPI, Streamlit, Docker Compose, GitHub Actions CI.
 
 `XGBoost` `Random Forest` `SHAP` `MITRE ATT&CK` `LangChain` `Ollama` `FastAPI` `Streamlit` `MLflow` `DVC` `Docker`
 
@@ -30,14 +30,14 @@ LSTM demand forecasting and XGBoost supply risk scoring for industrial automotiv
 ---
 
 ### 🔗 [AI Operations Agent (Procurement Decision System)](https://github.com/kbajish/ai-operations-agent)
-Multi-agent procurement decision support using LangGraph as the state machine with specialised agent nodes. Integrates supply chain forecasting and ERP RAG APIs as live tools. Generates structured Buy / Hold / Escalate recommendations with full reasoning trace. MLflow run logging per query.
+Multi-agent procurement decision support using LangGraph as the state machine with specialised agent nodes. Integrates the supply chain forecasting and ERP intelligence services as live tools. Generates structured Buy / Hold / Escalate recommendations with full reasoning trace. MLflow run logging per query.
 
 `LangGraph` `Multi-agent` `LangChain` `Ollama` `FastAPI` `Streamlit` `MLflow` `Docker`
 
 ---
 
 ### 🛡️ [AI Security Gateway](https://github.com/kbajish/ai-security-gateway)
-Middleware security gateway for LLM applications implementing a 3-layer hybrid detection pipeline — rule-based, ML-based, and LLM semantic reasoning. Detects prompt injection, PII leakage, and jailbreak attempts on inputs, and applies output guardrails on responses. DSGVO-compliant audit trail. Aligned with OWASP LLM Top 10, EU AI Act, MITRE ATLAS, and BSI IT-Grundschutz.
+Middleware security gateway for LLM applications implementing a 3-layer hybrid detection pipeline — rule-based, ML-based, and LLM semantic reasoning. Detects prompt injection, PII leakage, and jailbreak attempts on inputs, and applies output guardrails on responses. GDPR-aligned audit trail. Aligned with OWASP LLM Top 10, EU AI Act, MITRE ATLAS, and BSI IT-Grundschutz.
 
 `spaCy` `scikit-learn` `LangChain` `Ollama` `OWASP` `EU AI Act` `FastAPI` `Streamlit` `MLflow` `Docker`
 
