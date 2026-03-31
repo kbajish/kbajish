@@ -1,6 +1,6 @@
 # Hi, I'm Ajish
 
-**AI Engineer** · Cybersecurity · ERP · Industrial AI · MLOps
+**AI Engineer** · Industrial AI · MLOps · Cybersecurity · ERP
 
 Experienced IT professional with a background in software development, cybersecurity, and ERP systems. Focused on building well-engineered AI systems with explainability, LLM integration, and MLOps best practices — with a strong interest in Industrie 4.0 applications. Building end-to-end AI systems that combine machine learning, LLMs, and agent-based workflows to solve real-world problems in cybersecurity, ERP, supply chains, and AI security.
 
@@ -74,7 +74,7 @@ Middleware security gateway for LLM applications implementing a 3-layer hybrid d
 
 ### Domain Expertise
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=flat)
-![ERP](https://img.shields.io/badge/ERP-AdventureWorks-blue?style=flat)
+![ERPNext](https://img.shields.io/badge/ERPNext-Frappe-0089FF?style=flat)
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain-Industrie_4.0-green?style=flat)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-LangGraph-purple?style=flat)
 ![AI Security](https://img.shields.io/badge/AI_Security-OWASP_LLM-red?style=flat)
