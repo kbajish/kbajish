@@ -2,11 +2,9 @@
 
 **AI Systems Engineer** · Industrial AI · MLOps · Cybersecurity · ERP
 
-AI Systems Engineer focused on building production-grade LLM and MLOps systems for enterprise applications.
+Developing production-grade LLM and MLOps systems for enterprise applications.
 
-Experienced IT professional with a background in software development, cybersecurity, and ERP systems. Focused on building well-engineered AI systems with explainability, LLM integration, and MLOps best practices — with a strong interest in Industrie 4.0 applications.
-
-Building end-to-end AI systems that combine machine learning, LLMs, and agent-based workflows to solve real-world problems in cybersecurity, ERP, supply chains, and AI security.
+Experienced in software development, cybersecurity, and ERP systems, with a focus on Industrial AI. Builds end-to-end systems combining classical ML, deep learning, LLMs, and LangGraph-based agent workflows with emphasis on explainability, GDPR-aligned audit trails, and real-world applications across cybersecurity, ERP, supply chains, and AI security.
 
 ---
 
