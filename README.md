@@ -12,6 +12,7 @@ Experienced in software development, cybersecurity, and ERP systems, with a focu
 
 ### 🛡️ [AI Security Gateway](https://github.com/kbajish/ai-security-gateway)
 Production-style security gateway for LLM applications implementing a 3-layer hybrid detection pipeline — rule-based, ML-based, and LLM semantic reasoning. Detects prompt injection, PII leakage, and jailbreak attempts on inputs, and applies output guardrails on responses. GDPR-aligned audit trail. Aligned with OWASP LLM Top 10, EU AI Act, MITRE ATLAS, and BSI IT-Grundschutz. 
+
 Demonstrates: AI security, risk scoring, policy enforcement, observability
 
 `spaCy` `scikit-learn` `LangChain` `Ollama` `OWASP` `EU AI Act` `FastAPI` `Streamlit` `MLflow` `Docker`
@@ -20,6 +21,7 @@ Demonstrates: AI security, risk scoring, policy enforcement, observability
 
 ### 🔗 [AI Operations Agent (Procurement Decision System)](https://github.com/kbajish/ai-operations-agent)
 Multi-agent procurement decision support using LangGraph as the state machine with specialised agent nodes. Integrates the supply chain forecasting and ERP intelligence services as live tools. Generates structured Buy / Hold / Escalate recommendations with full reasoning trace. MLflow run logging per query. 
+
 Demonstrates: Multi-agent orchestration, tool integration, system design
 
 `LangGraph` `Multi-agent` `LangChain` `Ollama` `FastAPI` `Streamlit` `MLflow` `Docker`
