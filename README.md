@@ -4,11 +4,20 @@
 
 Developing production-grade LLM and MLOps systems for enterprise applications.
 
-Experienced in software development, cybersecurity, and ERP systems, with a focus on Industrial AI. Builds end-to-end systems combining classical ML, deep learning, LLMs, and LangGraph-based agent workflows with emphasis on explainability, GDPR-aligned audit trails, and real-world applications across cybersecurity, ERP, supply chains, and AI security.
+Experienced in AI Security, software development, cybersecurity, and ERP systems, with a focus on Industrial AI. Builds end-to-end systems combining classical ML, deep learning, LLMs, and LangGraph-based agent workflows with emphasis on LLM threat detection, prompt injection prevention, explainability, GDPR-aligned audit trails, and real-world applications across AI security, cybersecurity, ERP, and supply chains.
 
 ---
 
 ## Selected Work
+
+### 🛡️ [WrapSec - AI Security Gateway](https://github.com/wrapsec/wrapsec)
+Production-grade AI security gateway and enforcement layer for LLM applications. Inspects every prompt and response through a multi-layer detection pipeline - enforcing ALLOW, BLOCK, or SANITIZE decisions before anything reaches the model. Supports scan-only and proxy mode as a drop-in OpenAI-compatible replacement. Detection pipeline combines rule-based heuristics, two-tier ML detection (TF-IDF + DeBERTa-v3 transformer), PII redaction across 22 entity types, toxicity detection, and optional LLM semantic analysis. Includes Python and Node.js SDKs, CLI, RBAC, audit logging, and Prometheus/Grafana observability. Visit [wrapsec.com](https://wrapsec.com) for full documentation and deployment guides.
+
+Demonstrates: LLM security, multi-layer threat detection, AI guardrails, policy enforcement, production system design
+
+`Python` `FastAPI` `PostgreSQL` `Redis` `Next.js` `Docker` `OWASP LLM Top 10` `DeBERTa-v3` `Prometheus` `Grafana`
+
+---
 
 ### 🛡️ [AI Security Gateway](https://github.com/kbajish/ai-security-gateway)
 Production-style security gateway for LLM applications implementing a 3-layer hybrid detection pipeline — rule-based, ML-based, and LLM semantic reasoning. Detects prompt injection, PII leakage, and jailbreak attempts on inputs, and applies output guardrails on responses. GDPR-aligned audit trail. Aligned with OWASP LLM Top 10, EU AI Act, MITRE ATLAS, and BSI IT-Grundschutz. 
