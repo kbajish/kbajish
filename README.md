@@ -10,7 +10,7 @@ Experienced in AI Security, software development, cybersecurity, and ERP systems
 
 ## Selected Work
 
-### 🛡️ [WrapSec - AI Security Gateway](https://github.com/wrapsec/wrapsec)
+### [WrapSec - AI Security Gateway](https://github.com/wrapsec/wrapsec)
 Production-grade AI security gateway and enforcement layer for LLM applications. Inspects every prompt and response through a multi-layer detection pipeline - enforcing ALLOW, BLOCK, or SANITIZE decisions before anything reaches the model. Supports scan-only and proxy mode as a drop-in OpenAI-compatible replacement. Detection pipeline combines rule-based heuristics, two-tier ML detection (TF-IDF + DeBERTa-v3 transformer), PII redaction across 22 entity types, toxicity detection, and optional LLM semantic analysis. Includes Python and Node.js SDKs, CLI, RBAC, audit logging, and Prometheus/Grafana observability. Visit [wrapsec.com](https://wrapsec.com) for full documentation and deployment guides.
 
 Demonstrates: LLM security, multi-layer threat detection, AI guardrails, policy enforcement, production system design
@@ -19,7 +19,7 @@ Demonstrates: LLM security, multi-layer threat detection, AI guardrails, policy 
 
 ---
 
-### 🛡️ [AI Security Gateway](https://github.com/kbajish/ai-security-gateway)
+### [AI Security Gateway](https://github.com/kbajish/ai-security-gateway)
 Production-style security gateway for LLM applications implementing a 3-layer hybrid detection pipeline — rule-based, ML-based, and LLM semantic reasoning. Detects prompt injection, PII leakage, and jailbreak attempts on inputs, and applies output guardrails on responses. GDPR-aligned audit trail. Aligned with OWASP LLM Top 10, EU AI Act, MITRE ATLAS, and BSI IT-Grundschutz. 
 
 Demonstrates: AI security, risk scoring, policy enforcement, observability
@@ -28,7 +28,7 @@ Demonstrates: AI security, risk scoring, policy enforcement, observability
 
 ---
 
-### 🔗 [AI Operations Agent (Procurement Decision System)](https://github.com/kbajish/ai-operations-agent)
+### [AI Operations Agent (Procurement Decision System)](https://github.com/kbajish/ai-operations-agent)
 Multi-agent procurement decision support using LangGraph as the state machine with specialised agent nodes. Integrates the supply chain forecasting and ERP intelligence services as live tools. Generates structured Buy / Hold / Escalate recommendations with full reasoning trace. MLflow run logging per query. 
 
 Demonstrates: Multi-agent orchestration, tool integration, system design
@@ -37,21 +37,21 @@ Demonstrates: Multi-agent orchestration, tool integration, system design
 
 ---
 
-### 🤖 [ERP LLM Intelligence (RAG)](https://github.com/kbajish/erp-llm-intelligence-rag)
+### [ERP LLM Intelligence (RAG)](https://github.com/kbajish/erp-llm-intelligence-rag)
 RAG-based ERP intelligence system enabling natural language querying of AdventureWorks SD and MM data. Table-aware chunking, ChromaDB vector store, nomic-embed-text embeddings, LangChain RAG pipeline with source citation, MRR/Recall@5 evaluation tracked via MLflow.
 
 `LangChain` `ChromaDB` `RAG` `Ollama` `FastAPI` `Streamlit` `MLflow` `Docker`
 
 ---
 
-### 📦 [AI Supply Chain Forecasting & Risk Intelligence](https://github.com/kbajish/ai-supply-chain-forecasting)
+### [AI Supply Chain Forecasting & Risk Intelligence](https://github.com/kbajish/ai-supply-chain-forecasting)
 LSTM demand forecasting and XGBoost supply risk scoring for industrial automotive supply chains. 28-day forecasts with prediction intervals, SHAP supplier risk explanations, inventory reorder alerts, and LangChain planner narratives. Benchmarked on the M5 Forecasting dataset (Walmart CA subset).
 
 `LSTM` `PyTorch` `XGBoost` `SHAP` `LangChain` `Ollama` `FastAPI` `Streamlit` `MLflow` `Docker`
 
 ---
 
-### 🔐 [AI Cyber Threat Detection](https://github.com/kbajish/ai-cyber-threat-detection)
+### [AI Cyber Threat Detection](https://github.com/kbajish/ai-cyber-threat-detection)
 End-to-end ML system for network intrusion detection trained on CICIDS2017. XGBoost and Random Forest classifiers with SHAP explainability, MITRE ATT&CK mapping, and LangChain + Ollama SOC narratives. GDPR-aligned audit trail, FastAPI, Streamlit, Docker Compose, GitHub Actions CI.
 
 `XGBoost` `Random Forest` `SHAP` `MITRE ATT&CK` `LangChain` `Ollama` `FastAPI` `Streamlit` `MLflow` `DVC` `Docker`
