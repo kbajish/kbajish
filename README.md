@@ -20,11 +20,11 @@ Demonstrates: LLM security, multi-layer threat detection, AI guardrails, policy 
 ---
 
 ### [AI Operations Agent (Procurement Decision System)](https://github.com/kbajish/ai-operations-agent)
-Multi-agent procurement decision support using LangGraph as the state machine with specialised agent nodes. Integrates the supply chain forecasting and ERP intelligence services as live tools. Generates structured Buy / Hold / Escalate recommendations with full reasoning trace. MLflow run logging per query. 
+Multi-agent procurement decision support using LangGraph as the state machine with specialised agent nodes. Integrates the supply chain forecasting and ERP intelligence services as live tools over REST or MCP (Model Context Protocol). Generates structured Buy / Hold / Escalate recommendations with full reasoning trace. MLflow run logging per query. 
 
-Demonstrates: Multi-agent orchestration, tool integration, system design
+Demonstrates: Multi-agent orchestration, MCP tool server, tool integration, system design
 
-`LangGraph` `Multi-agent` `LangChain` `Ollama` `FastAPI` `Streamlit` `MLflow` `Docker`
+`LangGraph` `Multi-agent` `MCP` `LangChain` `Ollama` `FastAPI` `Streamlit` `MLflow` `Docker`
 
 ---
 
